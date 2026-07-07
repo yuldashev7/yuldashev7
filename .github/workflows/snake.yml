@@ -3,13 +3,16 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -19,9 +22,8 @@ jobs:
         with:
           github_user_name: yuldashev7
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
@@ -30,4 +32,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-

@@ -18,7 +18,7 @@ Frontend Developer focused on scalable apps, clean UI, and performance.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yuldashev7\&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=yuldashev7&theme=transparent)
 
 ---
 
@@ -27,16 +27,25 @@ Frontend Developer focused on scalable apps, clean UI, and performance.
 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake-dark.svg?palette=github-dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake.svg?palette=github-light"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake-dark.svg?palette=github-dark"
+  />
 </picture>
 
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/faxriddin-yuldashev-1a3050377/
-* Portfolio: https://portfolio-phi-seven-71.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/faxriddin-yuldashev-1a3050377/
+- Portfolio: https://portfolio-phi-seven-71.vercel.app/
 
 ---
