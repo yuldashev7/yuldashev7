@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Faxriddin
 
-<!--
-**yuldashev7/yuldashev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on scalable apps, clean UI, and performance.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,git)
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent)
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=transparent)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+## 🌐 Connect
+
+* LinkedIn: https://linkedin.com
+* Portfolio: https://yourportfolio.com
