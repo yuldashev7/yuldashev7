@@ -27,18 +27,10 @@ Frontend Developer focused on scalable apps, clean UI, and performance.
 🐍 Contribution Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake-dark.svg?palette=github-dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake.svg?palette=github-light"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake-dark.svg?palette=github-dark"
-  />
+ <img 
+  src="https://raw.githubusercontent.com/yuldashev7/yuldashev7/output/github-contribution-grid-snake-dark.svg" 
+  alt="snake animation" 
+/>
 </picture>
 
 ---
