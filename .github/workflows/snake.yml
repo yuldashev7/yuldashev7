@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: yuldashev7
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&background=0d1117
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&background=0d1117
 
       - name: Deploy Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
