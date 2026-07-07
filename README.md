@@ -6,7 +6,7 @@ Frontend Developer focused on scalable apps, clean UI, and performance.
 
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nextjs,ts)](https://skillicons.dev)
 
 ---
 
