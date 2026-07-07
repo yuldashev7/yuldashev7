@@ -39,5 +39,6 @@ Frontend Developer focused on scalable apps, clean UI, and performance.
 
 - LinkedIn: https://www.linkedin.com/in/faxriddin-yuldashev-1a3050377/
 - Portfolio: https://portfolio-phi-seven-71.vercel.app/
+- Telegram: http://t.me/yuldashevv_f
 
 ---
