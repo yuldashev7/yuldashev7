@@ -1,7 +1,6 @@
 # Hi 👋 I'm Faxriddin
 
-Frontend Developer focused on scalable apps, clean UI, and performance.
-
+Frontend developer focused on performance, clean UI & real-world impact.
 ---
 
 ## 🚀 Tech Stack
